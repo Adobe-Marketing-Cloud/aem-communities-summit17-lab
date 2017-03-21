@@ -1,3 +1,11 @@
+# Lab workbook
+## Guide
+[Guide](https://adobe-my.sharepoint.com/personal/aponnusa_adobe_com/_layouts/15/guestaccess.aspx?guestaccesstoken=AYTGtSVjzDzIvYcz8ZvBF6m5YNTWFyNMQhTIAcAaQMY%3d&docid=2_1388328616c604e549804b28d667753fe&rev=1)
+
+## Slides
+[Lab Slides](https://www.dropbox.com/s/wry66jv0ks67ia9/L4300.pdf?dl=0)
+
+# Troubleshooting Guide
 We have put together a list of potential issues you might run into with recommendations on how you can identify the problem or workaround it. This list will hopefully shrink with time ;)
 
 ## AEM Issue
