@@ -5,14 +5,14 @@ We have put together a list of potential issues you might run into with recommen
 ### Publisher (localhost:4503) not working
 * On visiting [http://localhost:4503](http://localhost:4503), if the page says startup in progress give a few moments
 * Open the termninal and type 
-`cd ~/aemcommunities/6.3/publish`
-`java -XX:MaxPermSize=256m -Xmx1024M -Dsling.run.modes=publish -jar cq-publish-4503.jar`
+* `cd ~/aemcommunities/6.3/publish`
+* `java -XX:MaxPermSize=256m -Xmx1024M -Dsling.run.modes=publish -jar cq-publish-4503.jar`
 
 ### Author (localhost:4502) not working
 * On visiting [http://localhost:4502](http://localhost:4502), if the page says startup in progress give a few moments
 * Open the termninal and type 
-`cd ~/aemcommunities/6.3/author`
-`java -XX:MaxPermSize=256m -Xmx1024M -Dsling.run.modes=publish -jar cq-author-4502.jar`
+* `cd ~/aemcommunities/6.3/author`
+* `java -XX:MaxPermSize=256m -Xmx1024M -Dsling.run.modes=publish -jar cq-author-4502.jar`
 
 ### Site Not published
 * Publish the site a gain
@@ -25,7 +25,7 @@ We have put together a list of potential issues you might run into with recommen
 * In case of error there will be a red dialog with error details (could be config issues or missing fields)
 * If not able to resolve the issue, edit the existing sample or a different site
 
-## UGC Issues
+## UGC Issues, No Sample Content
 
 ### Check Solr Status
 * [http://localhost:8983/solr/](http://localhost:8983/solr/)
